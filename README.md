@@ -33,13 +33,15 @@ A modern, responsive portfolio website showcasing my skills, projects, academic 
 
 ## 📂 Project Structure
 
+```
 portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
 └── assets/
-    └── images/ 
+    └── images/
+```
 
 ## 👨‍💻 **Author**
 
@@ -48,4 +50,12 @@ portfolio/
 - GitHub: https://github.com/himalibarde
 - LinkedIn: www.linkedin.com/in/himali-barde-5b4b1a34a
 - Email: himalibarde859@gmail.com
+
+
+
+
+
+
+
+
 
