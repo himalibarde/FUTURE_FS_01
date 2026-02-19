@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, academic 
 
 ## 🌐 Live Demo
 
-**[View Live Portfolio](https://your-portfolio-url.vercel.app)** 
+**[View Live Portfolio](https://himali-barde.vercel.app/)** 
 
 ## ✨ Features
 
