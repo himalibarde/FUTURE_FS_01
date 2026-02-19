@@ -34,12 +34,12 @@ A modern, responsive portfolio website showcasing my skills, projects, academic 
 ## 📂 Project Structure
 
 portfolio/
-├── index.html              # Main HTML file
-├── style.css               # All CSS styling
-├── script.js               # JavaScript functionality
-├── README.md               # Project documentation
+├── index.html
+├── style.css
+├── script.js
+├── README.md
 └── assets/
-    ├── images/  
+    └── images/ 
 
 ## 👨‍💻 **Author**
 
